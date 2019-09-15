@@ -15,5 +15,10 @@ This website was created by github pages and wiil be used to keep track of any e
 	··I checked the Hyper-V option in 开启或关闭windows功能, the option had been selected already. But when checked the 控制面板, the vitural machine was forbade.
       
 	  To solve this problem, need  to enter into BIOS and enable the Hyper-V, then the hello-world could be run which means the docker was installed.
-	  
+
+2. load the learning document
+   ··After the docker could work, I tried to load the GZ download from website.
+   
+   and then came the error:
+   ![problem.png](https://i.loli.net/2019/09/15/7obKLeYMONE8Ixc.png)
 
