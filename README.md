@@ -2,12 +2,12 @@
 
 This website was created by github pages and wiil be used to keep track of any experiences when learing bioinformatics.
 
-### about github 
+### About github 
 
     You can create a account and github page by following the guide.
 
-### about docker
-1. install docker
+### About docker
+1. Install docker
 	  
 	  The docker desktop could download from [docker hub](https://hub.docker.com/)
 	
@@ -21,6 +21,13 @@ This website was created by github pages and wiil be used to keep track of any e
    
    After the docker could work, I tried to load the GZ download from website.
    
-   and then came the error:
+   And then came the error:
    ![problem.png](https://i.loli.net/2019/09/15/7obKLeYMONE8Ixc.png)
+   
+   I tried if  the docker could regular load the GZ after I install a linux, but failed:
+   ![try.png](https://i.loli.net/2019/09/15/NldiVL3faOjmw92.png)
+   
+   Seems like I need to switch the model to linux.
+   
+   However, the docker told me the memory was not enough when tried to switch.
 
