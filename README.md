@@ -24,7 +24,7 @@ This website was created by github pages and wiil be used to keep track of any e
    And then came the error:
    ![problem.png](https://i.loli.net/2019/09/15/7obKLeYMONE8Ixc.png)
    
-   I tried if  the docker could regular load the GZ after I install a linux, but failed:
+   I tried if  the docker could regular load the GZ after I installing a linux, but even failed to find docker:
    ![try.png](https://i.loli.net/2019/09/15/NldiVL3faOjmw92.png)
    
    Seems like I need to switch the model to linux.
